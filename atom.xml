@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhangyuofgithub.github.io/"/>
-  <updated>2019-08-25T03:21:55.234Z</updated>
+  <updated>2019-08-25T03:37:22.406Z</updated>
   <id>https://zhangyuofgithub.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://zhangyuofgithub.github.io/2019/08/25/What-Is-Java/"/>
     <id>https://zhangyuofgithub.github.io/2019/08/25/What-Is-Java/</id>
     <published>2019-08-25T03:19:12.000Z</published>
-    <updated>2019-08-25T03:21:55.234Z</updated>
+    <updated>2019-08-25T03:37:22.406Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2019/08/25/What-Is-Java/java.jpg" alt></p><a id="more"></a>!<p>Java是由Sun Microsystems公司于1995年5月推出的Java面向对象程序设计语言和Java平台的总称。由James Gosling和同事们共同研发，并在1995年正式推出。</p><p>Java分为三个体系：</p><p>JavaSE（J2SE）（Java2 Platform Standard Edition，java平台标准版）<br>JavaEE(J2EE)(Java 2 Platform,Enterprise Edition，java平台企业版)<br>JavaME(J2ME)(Java 2 Platform Micro Edition，java平台微型版)。<br>2005年6月，JavaOne大会召开，SUN公司公开Java SE 6。此时，Java的各种版本已经更名以取消其中的数字”2”：J2EE更名为Java EE, J2SE更名为Java SE，J2ME更名为Java ME。</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2019/08/25/What-Is-Java/java.jpg" alt></p><a id="more"></a>!<p>Java是由Sun Microsystems公司于1995年5月推出的Java面向对象程序设计语言和Java平台的总称。由James Gosling和同事们共同研发，并在1995年正式推出。</p><p>Java分为三个体系：</p><p>JavaSE（J2SE）（Java2 Platform Standard Edition，java平台标准版）<br>JavaEE(J2EE)(Java 2 Platform,Enterprise Edition，java平台企业版)<br>JavaME(J2ME)(Java 2 Platform Micro Edition，java平台微型版)。<br>2005年6月，JavaOne大会召开，SUN公司公开Java SE 6。此时，Java的各种版本已经更名以取消其中的数字”2”：J2EE更名为Java EE, J2SE更名为Java SE，J2ME更名为Java ME。<br>——转自<a href="https://baike.baidu.com/" target="_blank" rel="noopener">百度百科</a></p>]]></content>
     
     <summary type="html">
     
